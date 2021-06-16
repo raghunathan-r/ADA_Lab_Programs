@@ -1,10 +1,5 @@
 # LA - I - ADA Lab Internals Practice
 
-Chapter content: https://www.notion.so/Part-A-73cbc57425cd4e8bbf3c20244ee7b6a8
-Last edited: Jun 15, 2021 9:29 PM
-Subject: https://www.notion.so/91667517fc37424285b4e6e358a62d2d
-Tags: Rough notes ✏
-
 **Q 1. Design a C program to sort 'n' elements using selection sort in ascending or descending order. Also find its space and time complexity.**
 
 `Page - 3 - Unit 2 - Mohan notes`
